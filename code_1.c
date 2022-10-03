@@ -42,5 +42,7 @@ int main(){
    result=x+y;  
    printf("sum of 2 numbers:%d ",result);  
    
+  printf("shdj sdfjjdsf jjf ");  
+
    return 0;  
 }    
